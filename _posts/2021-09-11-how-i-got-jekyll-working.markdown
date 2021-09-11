@@ -26,11 +26,11 @@ Bill's tutorial shows you how to configure a github pages site *without* a custo
 ## Notes on CNAME and A records
 To get my custom domain working with github pages, I typed in my custom domain in the **Pages** settings of the repo. 
 
-![github-pages-settings](/_posts/images/ghub-settings.png "Github pages custom domain")
+![github-pages-settings](/assets/images/ghub-settings.png "Github pages custom domain")
 
 Then I created a `CNAME` record that points to my github pages address.
 
-![cname](/_posts/images/cname.png)
+![cname](/assets/images/cname.png)
 
 Finally, I created four `A` records, one for each of github's IP addresses:
 
@@ -41,7 +41,7 @@ Finally, I created four `A` records, one for each of github's IP addresses:
 
 Here's what one of the entries looks like for me.
 
-![img](/_posts/images/Arecord.png)
+![img](/assets/images/Arecord.png)
 
 And there you have it, a short chronicle of how this page was born. Thank you Bill and Moncef for the help!
 
