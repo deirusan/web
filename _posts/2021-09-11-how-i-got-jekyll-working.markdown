@@ -11,7 +11,7 @@ After watching this great [tutorial on youtube by Bill Raymond](https://www.yout
 
 Of course, whenever I think something is going to be easy, it turns out to be a lengthy stumble into one wall after another. I was thwarted almost immediately. I couldn't launch jekyll. I spent an hour trying to understand why my system hates me, why it couldn't find certain gems, and why my "bundle" refused to update. 
 
-After a frenzied google search, I landed on a [walkthrough by Moncef Belyamani](https://www.moncefbelyamani.com/how-to-install-xcode-homebrew-git-rvm-ruby-on-mac/)) that solved all my ruby gem problems. 
+After a frenzied google search, I landed on a [walkthrough by Moncef Belyamani](https://www.moncefbelyamani.com/how-to-install-xcode-homebrew-git-rvm-ruby-on-mac/) that solved all my ruby gem problems. 
 
 Thank you, Moncef Belyamani, you're the real gem here.
 
