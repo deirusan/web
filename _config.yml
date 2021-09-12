@@ -30,7 +30,7 @@ twitter_username: yogiwankinobi
 github_username:  deirusan
 
 # Build settings
-theme: minima
+theme: beautiful-jekyll-theme
 plugins:
   - jekyll-feed
 
