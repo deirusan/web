@@ -17,7 +17,7 @@ What follows is a high-level overview of what I did to get my site working with 
 ### Step 1 - Watch Bill Raymond's tutorial
 I don't have an aversion to reading documentation, but if I can watch a video that summarizes the process for me, then that's what I'll do. Watch [Bill's tutorial](https://www.youtube.com/watch?v=EmSrQCDsMv4) and let him hold your hand through configuring your GitHub repo, installing `jekyll`, and creating your first blog post. If you have a custom domain, be sure to add it in the settings of your GitHub Pages [(see below)](#step-2---configure-your-custom-domain).
 
-##### Problems installing jekyll?
+#### Problems installing jekyll?
 Bill's tutorial presents a seamless, happy experience. But in my case, I had to fight against my ruby installation for about an hour before I could install `jekyll` and `bundler`. I had `ruby v3.0` installed on my system and `rvm` managed the versions and gems. Because of this, I ran into all sorts of problems with missing gems, borked paths, and failed updates. I couldn't progress Bill's tutorial.
 
 And since I know nothing about ruby, I turned to google for help.
