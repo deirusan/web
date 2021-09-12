@@ -57,7 +57,7 @@ Bill's tutorial shows you how to configure a GitHub Pages site ***without*** a c
 
 ```yaml
 baseurl: "" # the subpath of your site, e.g. /blog (in my case it wasn't necessary to specify this, if so, it breaks the site)
-url: "https://deirusan.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://deiru-writes.com" # the base hostname & protocol for your site, e.g. http://example.com
 ```
 
 And there you have it, a short chronicle of how this page was born. Thank you Bill and Moncef for the help — Good luck to everyone and happy blogging!
